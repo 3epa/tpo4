@@ -1,0 +1,11 @@
+jmeter.log
+
+*.jtl
+*.csv
+*.log
+
+/html_report/
+/report/
+
+.DS_Store
+Thumbs.db
